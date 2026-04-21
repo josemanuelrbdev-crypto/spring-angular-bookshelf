@@ -15,6 +15,11 @@ Este es un proyecto Fullstack básico que permite gestionar una biblioteca de li
 2.  **Node.js** y **Angular CLI**.
 3.  **MySQL Server**.
 
+📸 Screenshots
+<img width="1432" height="768" alt="image" src="https://github.com/user-attachments/assets/1939c424-f62b-4f1f-84ab-db8f15488ae9" />
+
+
+
 ## 📋 Configuración de la Base de Datos
 
 Crea una base de datos llamada `libreria_db` y ejecuta el siguiente script para crear la tabla e insertar datos iniciales:
